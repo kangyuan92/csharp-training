@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharp-training\\csharp-training\\assignment1\\Chapter03\\Exercise03\\Exercise03\\Exercise03.csproj": {}
+    "D:\\cstraining\\csharp-training\\assignment1\\Chapter03\\Exercise03\\Exercise03\\Exercise03.csproj": {}
   },
   "projects": {
-    "D:\\csharp-training\\csharp-training\\assignment1\\Chapter03\\Exercise03\\Exercise03\\Exercise03.csproj": {
+    "D:\\cstraining\\csharp-training\\assignment1\\Chapter03\\Exercise03\\Exercise03\\Exercise03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharp-training\\csharp-training\\assignment1\\Chapter03\\Exercise03\\Exercise03\\Exercise03.csproj",
+        "projectUniqueName": "D:\\cstraining\\csharp-training\\assignment1\\Chapter03\\Exercise03\\Exercise03\\Exercise03.csproj",
         "projectName": "Exercise03",
-        "projectPath": "D:\\csharp-training\\csharp-training\\assignment1\\Chapter03\\Exercise03\\Exercise03\\Exercise03.csproj",
+        "projectPath": "D:\\cstraining\\csharp-training\\assignment1\\Chapter03\\Exercise03\\Exercise03\\Exercise03.csproj",
         "packagesPath": "C:\\Users\\91067\\.nuget\\packages\\",
-        "outputPath": "D:\\csharp-training\\csharp-training\\assignment1\\Chapter03\\Exercise03\\Exercise03\\obj\\",
+        "outputPath": "D:\\cstraining\\csharp-training\\assignment1\\Chapter03\\Exercise03\\Exercise03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\91067\\AppData\\Roaming\\NuGet\\NuGet.Config",
