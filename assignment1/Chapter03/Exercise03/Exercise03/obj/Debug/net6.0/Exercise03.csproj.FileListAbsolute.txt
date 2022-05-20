@@ -1,0 +1,15 @@
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.csproj.AssemblyReference.cache
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfoInputs.cache
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfo.cs
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.csproj.CoreCompileInputs.cache
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\bin\Debug\net6.0\Exercise03.exe
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\bin\Debug\net6.0\Exercise03.deps.json
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\bin\Debug\net6.0\Exercise03.runtimeconfig.json
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\bin\Debug\net6.0\Exercise03.dll
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\bin\Debug\net6.0\Exercise03.pdb
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.dll
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\obj\Debug\net6.0\refint\Exercise03.dll
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.pdb
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.genruntimeconfig.cache
+D:\csharp-training\csharp-training\assignment1\Chapter03\Exercise03\Exercise03\obj\Debug\net6.0\ref\Exercise03.dll
