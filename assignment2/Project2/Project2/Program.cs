@@ -43,7 +43,32 @@ namespace Assignment2
                 Console.WriteLine("Enter an array or enter END to stop");
                 stop = mostFrequency();
             }
+
+            //Practice Strings
+            //1.
+            Console.WriteLine("********* 1. Reverse String ********");
+            stop = false;
+            while (!stop)
+            {
+                Console.WriteLine("Enter an array or enter END to stop");
+                stop = reverseString();
+            }
         }
+
+        static Boolean reverseString()
+        {
+            string inputString = Console.ReadLine();
+
+            if (inputString.Equals("END")) return true;
+
+            char[] inputArr = inputString.ToCharArray();
+            Array.Reverse(inputArr);
+
+            Console.WriteLine(String.Join("", inputArr));
+
+            return false;
+        }
+
 
         static void copyArray(int[] arr1)
         {
