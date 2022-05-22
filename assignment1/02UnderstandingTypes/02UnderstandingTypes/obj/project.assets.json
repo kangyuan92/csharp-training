@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\csharp-training\\csharp-training\\assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\02UnderstandingTypes.csproj",
+      "projectUniqueName": "D:\\cstraining\\csharp-training\\assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\02UnderstandingTypes.csproj",
       "projectName": "02UnderstandingTypes",
-      "projectPath": "D:\\csharp-training\\csharp-training\\assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\02UnderstandingTypes.csproj",
+      "projectPath": "D:\\cstraining\\csharp-training\\assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\02UnderstandingTypes.csproj",
       "packagesPath": "C:\\Users\\91067\\.nuget\\packages\\",
-      "outputPath": "D:\\csharp-training\\csharp-training\\assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\obj\\",
+      "outputPath": "D:\\cstraining\\csharp-training\\assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\91067\\AppData\\Roaming\\NuGet\\NuGet.Config",

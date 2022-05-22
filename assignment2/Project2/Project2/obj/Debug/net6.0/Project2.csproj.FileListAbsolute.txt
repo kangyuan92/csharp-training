@@ -1,0 +1,15 @@
+D:\cstraining\csharp-training\assignment2\Project2\Project2\bin\Debug\net6.0\Project2.exe
+D:\cstraining\csharp-training\assignment2\Project2\Project2\bin\Debug\net6.0\Project2.deps.json
+D:\cstraining\csharp-training\assignment2\Project2\Project2\bin\Debug\net6.0\Project2.runtimeconfig.json
+D:\cstraining\csharp-training\assignment2\Project2\Project2\bin\Debug\net6.0\Project2.dll
+D:\cstraining\csharp-training\assignment2\Project2\Project2\bin\Debug\net6.0\Project2.pdb
+D:\cstraining\csharp-training\assignment2\Project2\Project2\obj\Debug\net6.0\Project2.csproj.AssemblyReference.cache
+D:\cstraining\csharp-training\assignment2\Project2\Project2\obj\Debug\net6.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\cstraining\csharp-training\assignment2\Project2\Project2\obj\Debug\net6.0\Project2.AssemblyInfoInputs.cache
+D:\cstraining\csharp-training\assignment2\Project2\Project2\obj\Debug\net6.0\Project2.AssemblyInfo.cs
+D:\cstraining\csharp-training\assignment2\Project2\Project2\obj\Debug\net6.0\Project2.csproj.CoreCompileInputs.cache
+D:\cstraining\csharp-training\assignment2\Project2\Project2\obj\Debug\net6.0\Project2.dll
+D:\cstraining\csharp-training\assignment2\Project2\Project2\obj\Debug\net6.0\refint\Project2.dll
+D:\cstraining\csharp-training\assignment2\Project2\Project2\obj\Debug\net6.0\Project2.pdb
+D:\cstraining\csharp-training\assignment2\Project2\Project2\obj\Debug\net6.0\Project2.genruntimeconfig.cache
+D:\cstraining\csharp-training\assignment2\Project2\Project2\obj\Debug\net6.0\ref\Project2.dll
